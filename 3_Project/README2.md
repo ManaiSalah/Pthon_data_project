@@ -21,7 +21,7 @@ for i in range(5):
 ~~~~
 
 ### Results
-![Trending Top skills for Data Analysts in the US](3_Project\img2.png)
+![Trending Top skills for Data Analysts in the US](3_Project\Images\img2.png)
 
 *Bar graph visualizing the trending top skills for data analysts in the US in 2023.*
 
